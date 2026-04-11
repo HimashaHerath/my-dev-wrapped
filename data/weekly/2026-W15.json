@@ -6,7 +6,7 @@
     "endDate": "2026-04-12T23:59:59.999Z"
   },
   "signals": {
-    "totalCommits": 34,
+    "totalCommits": 37,
     "totalPRsOpened": 0,
     "totalPRsMerged": 0,
     "totalReviews": 0,
@@ -45,7 +45,7 @@
       },
       {
         "hour": 7,
-        "count": 34
+        "count": 37
       },
       {
         "hour": 8,
@@ -115,14 +115,14 @@
     "topLanguages": [
       {
         "language": "TypeScript",
-        "commitCount": 31,
+        "commitCount": 34,
         "percentage": 100
       }
     ],
     "topRepos": [
       {
         "repo": "HimashaHerath/github-dev-wrapped",
-        "commits": 31,
+        "commits": 34,
         "prsOpened": 0,
         "prsMerged": 0
       },
@@ -139,14 +139,10 @@
         "prsMerged": 0
       }
     ],
-    "focusScore": 91,
+    "focusScore": 92,
     "reviewGenerosity": 0
   },
   "delta": null,
-  "llm": {
-    "archetype": "This developer is a solo, TypeScript-focused coder with an exceptionally high focus score, indicating a strong ability to concentrate their coding efforts within a single repository. Their lack of participation in code reviews and PRs suggests a potential for growth in collaborative development.",
-    "evolution": null,
-    "headline": "TYPESCRIPT FOCUS MASTER"
-  },
-  "generatedAt": "2026-04-11T10:02:29.724Z"
+  "llm": null,
+  "generatedAt": "2026-04-11T10:10:35.257Z"
 }
