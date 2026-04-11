@@ -1,0 +1,142 @@
+{
+  "period": {
+    "frequency": "weekly",
+    "label": "2026-W15",
+    "startDate": "2026-04-06T00:00:00.000Z",
+    "endDate": "2026-04-12T23:59:59.999Z"
+  },
+  "signals": {
+    "totalCommits": 32,
+    "totalPRsOpened": 0,
+    "totalPRsMerged": 0,
+    "totalReviews": 0,
+    "totalIssuesOpened": 0,
+    "totalIssuesClosed": 0,
+    "streak": 1,
+    "peakHour": 7,
+    "hourDistribution": [
+      {
+        "hour": 0,
+        "count": 0
+      },
+      {
+        "hour": 1,
+        "count": 0
+      },
+      {
+        "hour": 2,
+        "count": 0
+      },
+      {
+        "hour": 3,
+        "count": 0
+      },
+      {
+        "hour": 4,
+        "count": 0
+      },
+      {
+        "hour": 5,
+        "count": 0
+      },
+      {
+        "hour": 6,
+        "count": 0
+      },
+      {
+        "hour": 7,
+        "count": 32
+      },
+      {
+        "hour": 8,
+        "count": 0
+      },
+      {
+        "hour": 9,
+        "count": 0
+      },
+      {
+        "hour": 10,
+        "count": 0
+      },
+      {
+        "hour": 11,
+        "count": 0
+      },
+      {
+        "hour": 12,
+        "count": 0
+      },
+      {
+        "hour": 13,
+        "count": 0
+      },
+      {
+        "hour": 14,
+        "count": 0
+      },
+      {
+        "hour": 15,
+        "count": 0
+      },
+      {
+        "hour": 16,
+        "count": 0
+      },
+      {
+        "hour": 17,
+        "count": 0
+      },
+      {
+        "hour": 18,
+        "count": 0
+      },
+      {
+        "hour": 19,
+        "count": 0
+      },
+      {
+        "hour": 20,
+        "count": 0
+      },
+      {
+        "hour": 21,
+        "count": 0
+      },
+      {
+        "hour": 22,
+        "count": 0
+      },
+      {
+        "hour": 23,
+        "count": 0
+      }
+    ],
+    "topLanguages": [],
+    "topRepos": [
+      {
+        "repo": "HimashaHerath/github-dev-wrapped",
+        "commits": 29,
+        "prsOpened": 0,
+        "prsMerged": 0
+      },
+      {
+        "repo": "HimashaHerath/my-dev-wrapped",
+        "commits": 2,
+        "prsOpened": 0,
+        "prsMerged": 0
+      },
+      {
+        "repo": "HimashaHerath/my-dev-wrapped-",
+        "commits": 1,
+        "prsOpened": 0,
+        "prsMerged": 0
+      }
+    ],
+    "focusScore": 91,
+    "reviewGenerosity": 0
+  },
+  "delta": null,
+  "llm": null,
+  "generatedAt": "2026-04-11T09:52:09.573Z"
+}
