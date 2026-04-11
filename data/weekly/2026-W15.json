@@ -143,6 +143,10 @@
     "reviewGenerosity": 0
   },
   "delta": null,
-  "llm": null,
+  "llm": {
+    "archetype": "This developer is a solo, TypeScript-focused coder with high productivity but low collaboration. Their brief coding streaks and high focus score indicate a concentrated, individual work style.",
+    "evolution": null,
+    "headline": "TYPESCRIPT POWERHOUSE CODER"
+  },
   "generatedAt": "2026-04-11T10:10:35.257Z"
 }
