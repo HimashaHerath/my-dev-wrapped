@@ -6,7 +6,7 @@
     "endDate": "2026-04-12T23:59:59.999Z"
   },
   "signals": {
-    "totalCommits": 33,
+    "totalCommits": 34,
     "totalPRsOpened": 0,
     "totalPRsMerged": 0,
     "totalReviews": 0,
@@ -45,7 +45,7 @@
       },
       {
         "hour": 7,
-        "count": 33
+        "count": 34
       },
       {
         "hour": 8,
@@ -112,11 +112,17 @@
         "count": 0
       }
     ],
-    "topLanguages": [],
+    "topLanguages": [
+      {
+        "language": "TypeScript",
+        "commitCount": 31,
+        "percentage": 100
+      }
+    ],
     "topRepos": [
       {
         "repo": "HimashaHerath/github-dev-wrapped",
-        "commits": 30,
+        "commits": 31,
         "prsOpened": 0,
         "prsMerged": 0
       },
@@ -138,5 +144,5 @@
   },
   "delta": null,
   "llm": null,
-  "generatedAt": "2026-04-11T09:53:54.442Z"
+  "generatedAt": "2026-04-11T10:02:29.724Z"
 }
