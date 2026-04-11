@@ -143,6 +143,10 @@
     "reviewGenerosity": 0
   },
   "delta": null,
-  "llm": null,
+  "llm": {
+    "archetype": "This developer is a solo, TypeScript-focused coder with an exceptionally high focus score, indicating a strong ability to concentrate their coding efforts within a single repository. Their lack of participation in code reviews and PRs suggests a potential for growth in collaborative development.",
+    "evolution": null,
+    "headline": "TYPESCRIPT FOCUS MASTER"
+  },
   "generatedAt": "2026-04-11T10:02:29.724Z"
 }
