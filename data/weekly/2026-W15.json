@@ -143,6 +143,10 @@
     "reviewGenerosity": 0
   },
   "delta": null,
-  "llm": null,
+  "llm": {
+    "archetype": "The solo TypeScript virtuoso with razor focus, coding in brief yet intense bursts.",
+    "evolution": null,
+    "headline": "TYPESCRIPT MASTER"
+  },
   "generatedAt": "2026-04-11T10:15:02.880Z"
 }
