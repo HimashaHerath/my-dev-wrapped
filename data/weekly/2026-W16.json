@@ -1,0 +1,123 @@
+{
+  "period": {
+    "frequency": "weekly",
+    "label": "2026-W16",
+    "startDate": "2026-04-13T00:00:00.000Z",
+    "endDate": "2026-04-19T23:59:59.999Z"
+  },
+  "signals": {
+    "totalCommits": 0,
+    "totalPRsOpened": 0,
+    "totalPRsMerged": 0,
+    "totalReviews": 0,
+    "totalIssuesOpened": 0,
+    "totalIssuesClosed": 0,
+    "streak": 0,
+    "peakHour": 0,
+    "hourDistribution": [
+      {
+        "hour": 0,
+        "count": 0
+      },
+      {
+        "hour": 1,
+        "count": 0
+      },
+      {
+        "hour": 2,
+        "count": 0
+      },
+      {
+        "hour": 3,
+        "count": 0
+      },
+      {
+        "hour": 4,
+        "count": 0
+      },
+      {
+        "hour": 5,
+        "count": 0
+      },
+      {
+        "hour": 6,
+        "count": 0
+      },
+      {
+        "hour": 7,
+        "count": 0
+      },
+      {
+        "hour": 8,
+        "count": 0
+      },
+      {
+        "hour": 9,
+        "count": 0
+      },
+      {
+        "hour": 10,
+        "count": 0
+      },
+      {
+        "hour": 11,
+        "count": 0
+      },
+      {
+        "hour": 12,
+        "count": 0
+      },
+      {
+        "hour": 13,
+        "count": 0
+      },
+      {
+        "hour": 14,
+        "count": 0
+      },
+      {
+        "hour": 15,
+        "count": 0
+      },
+      {
+        "hour": 16,
+        "count": 0
+      },
+      {
+        "hour": 17,
+        "count": 0
+      },
+      {
+        "hour": 18,
+        "count": 0
+      },
+      {
+        "hour": 19,
+        "count": 0
+      },
+      {
+        "hour": 20,
+        "count": 0
+      },
+      {
+        "hour": 21,
+        "count": 0
+      },
+      {
+        "hour": 22,
+        "count": 0
+      },
+      {
+        "hour": 23,
+        "count": 0
+      }
+    ],
+    "topLanguages": [],
+    "topRepos": [],
+    "focusScore": 0,
+    "reviewGenerosity": 0
+  },
+  "delta": null,
+  "llm": null,
+  "generatedAt": "2026-04-13T01:35:07.369Z"
+}
