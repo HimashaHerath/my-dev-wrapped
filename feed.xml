@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Dev Wrapped</title>
+    <link>https://HimashaHerath.github.io/my-dev-wrapped</link>
+    <description>Developer activity reports</description>
+    
+    <item>
+      <title>2026-W15: TYPESCRIPT MASTER</title>
+      <link>https://HimashaHerath.github.io/my-dev-wrapped/weekly/2026-W15/</link>
+      <pubDate>Sat, 11 Apr 2026 10:15:02 GMT</pubDate>
+      <description>The solo TypeScript virtuoso with razor focus, coding in brief yet intense bursts.</description>
+    </item>
+    <item>
+      <title>2026-W16: DEVELOPER IN STEALTH MODE</title>
+      <link>https://HimashaHerath.github.io/my-dev-wrapped/weekly/2026-W16/</link>
+      <pubDate>Mon, 13 Apr 2026 01:35:07 GMT</pubDate>
+      <description>This developer appears to be on hiatus, with no coding activity to speak of, suggesting a potential pause in their technical pursuits. Their complete lack of engagement implies a possible shift in focus or priorities.</description>
+    </item>
+  </channel>
+</rss>
