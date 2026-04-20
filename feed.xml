@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Dev Wrapped</title>
+    <link>https://HimashaHerath.github.io/my-dev-wrapped</link>
+    <description>Developer activity reports</description>
+    
+    <item>
+      <title>2026-W15: TYPESCRIPT MASTER</title>
+      <link>https://HimashaHerath.github.io/my-dev-wrapped/weekly/2026-W15/</link>
+      <pubDate>Sat, 11 Apr 2026 10:15:02 GMT</pubDate>
+      <description>The solo TypeScript virtuoso with razor focus, coding in brief yet intense bursts.</description>
+    </item>
+    <item>
+      <title>2026-W16: FOCUSED CODING MASTER</title>
+      <link>https://HimashaHerath.github.io/my-dev-wrapped/weekly/2026-W16/</link>
+      <pubDate>Mon, 20 Apr 2026 01:34:17 GMT</pubDate>
+      <description>Focused and precise coder with clear priorities, working diligently within a single repository to maximize impact.</description>
+    </item>
+  </channel>
+</rss>

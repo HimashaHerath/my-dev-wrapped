@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="48" viewBox="0 0 800 48">
+  <rect width="800" height="48" fill="#ffffff"/>
+  <style>
+    @keyframes scroll { 0% { transform: translateX(800px); } 100% { transform: translateX(-100%); } }
+    .ticker { animation: scroll 20s linear infinite; font-family: monospace; font-size: 13px; fill: #1a1a1a; }
+    .label { font-family: monospace; font-size: 10px; fill: #999; }
+  </style>
+  <text class="label" x="8" y="32">DEV REPORT</text>
+  <clipPath id="clip"><rect x="90" y="0" width="702" height="48"/></clipPath>
+  <g clip-path="url(#clip)">
+    <text class="ticker" y="30">FOCUSED CODING MASTER  ——  7 commits  ·  0 PRs  ·  1d streak</text>
+  </g>
+</svg>
