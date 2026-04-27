@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="48" viewBox="0 0 800 48">
+  <rect width="800" height="48" fill="#0a0a0a"/>
+  <style>
+    @keyframes scroll { 0% { transform: translateX(800px); } 100% { transform: translateX(-100%); } }
+    .ticker { animation: scroll 20s linear infinite; font-family: monospace; font-size: 13px; fill: #e8e8e8; }
+    .label { font-family: monospace; font-size: 10px; fill: #666; }
+  </style>
+  <text class="label" x="8" y="32">DEV REPORT</text>
+  <clipPath id="clip"><rect x="90" y="0" width="702" height="48"/></clipPath>
+  <g clip-path="url(#clip)">
+    <text class="ticker" y="30">TYPESCRIPT TIGER  ——  1 commits  ·  0 PRs  ·  1d streak</text>
+  </g>
+</svg>
