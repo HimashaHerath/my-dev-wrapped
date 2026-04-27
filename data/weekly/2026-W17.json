@@ -131,6 +131,10 @@
     "reviewGenerosity": 0
   },
   "delta": null,
-  "llm": null,
+  "llm": {
+    "archetype": "This developer is a solo, focused coder, with all commits in one repository, indicating a high level of dedication to a single project, and a preference for working independently.",
+    "evolution": null,
+    "headline": "TYPESCRIPT TIGER"
+  },
   "generatedAt": "2026-04-27T01:34:58.398Z"
 }
