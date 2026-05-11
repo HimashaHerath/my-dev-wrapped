@@ -118,6 +118,10 @@
     "reviewGenerosity": 0
   },
   "delta": null,
-  "llm": null,
+  "llm": {
+    "archetype": "This developer appears to be on an extended hiatus, with no coding activity to speak of, leaving their technical interests and strengths unknown. Their silence is deafening, a blank slate waiting for inspiration or catalyst to reignite their passion for coding.",
+    "evolution": null,
+    "headline": "COMPLETE DEVELOPER RADIO SILENCE"
+  },
   "generatedAt": "2026-05-11T01:36:04.476Z"
 }
