@@ -1,12 +1,12 @@
 {
   "period": {
     "frequency": "weekly",
-    "label": "2026-W17",
-    "startDate": "2026-04-20T00:00:00.000Z",
-    "endDate": "2026-04-26T23:59:59.999Z"
+    "label": "2026-W43",
+    "startDate": "2026-10-19T00:00:00.000Z",
+    "endDate": "2026-10-25T23:59:59.999Z"
   },
   "signals": {
-    "totalCommits": 1,
+    "totalCommits": 2,
     "totalPRsOpened": 0,
     "totalPRsMerged": 0,
     "totalReviews": 0,
@@ -45,7 +45,7 @@
       },
       {
         "hour": 7,
-        "count": 1
+        "count": 2
       },
       {
         "hour": 8,
@@ -114,15 +114,15 @@
     ],
     "topLanguages": [
       {
-        "language": "TypeScript",
-        "commitCount": 1,
+        "language": "Swift",
+        "commitCount": 2,
         "percentage": 100
       }
     ],
     "topRepos": [
       {
-        "repo": "HimashaHerath/au-jobs-mcp",
-        "commits": 1,
+        "repo": "HimashaHerath/claude-usage-bar",
+        "commits": 2,
         "prsOpened": 0,
         "prsMerged": 0
       }
@@ -131,10 +131,6 @@
     "reviewGenerosity": 0
   },
   "delta": null,
-  "llm": {
-    "archetype": "This developer is a solo, focused coder, with all commits in one repository, indicating a high level of dedication to a single project, and a preference for working independently.",
-    "evolution": null,
-    "headline": "TYPESCRIPT TIGER"
-  },
-  "generatedAt": "2026-04-27T01:34:58.398Z"
+  "llm": null,
+  "generatedAt": "2026-10-26T12:36:01.800Z"
 }
