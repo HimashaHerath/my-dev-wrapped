@@ -139,6 +139,10 @@
     "focusScore": 0,
     "reviewGenerosity": 0
   },
-  "llm": null,
+  "llm": {
+    "archetype": "A hyper-focused Swift specialist who pours every ounce of effort into a single repository, delivering tiny but razor‑sharp code bursts.",
+    "evolution": "This week is a carbon copy of the last—commit count, streak length, and focus score all stayed exactly the same, underscoring a steady, solitary rhythm of isolated, high‑intensity work with no forays into reviews or new projects.",
+    "headline": "STEADY SWIFT SPRINT, NO SURPRISES"
+  },
   "generatedAt": "2026-10-26T12:48:46.343Z"
 }
