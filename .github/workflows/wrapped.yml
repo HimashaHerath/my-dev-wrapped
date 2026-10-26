@@ -20,11 +20,11 @@ jobs:
 
       - uses: HimashaHerath/github-dev-wrapped@main
         with:
-          github-token: ${{ secrets.GDW_PAT }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           frequency: 'weekly'
           theme: 'noir'
           language: 'en'
-          timezone: 'Asia/Colombo'
+          timezone: 'Australia/Adelaide'
           llm-provider: 'groq'
           llm-model: 'llama-3.3-70b-versatile'
           groq-api-key: ${{ secrets.GDW_LLM_KEY }}
