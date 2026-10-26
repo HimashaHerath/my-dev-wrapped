@@ -130,7 +130,15 @@
     "focusScore": 100,
     "reviewGenerosity": 0
   },
-  "delta": null,
+  "delta": {
+    "commits": 0,
+    "prsOpened": 0,
+    "reviews": 0,
+    "streak": 0,
+    "peakHour": 0,
+    "focusScore": 0,
+    "reviewGenerosity": 0
+  },
   "llm": null,
-  "generatedAt": "2026-10-26T12:36:01.800Z"
+  "generatedAt": "2026-10-26T12:47:18.016Z"
 }
