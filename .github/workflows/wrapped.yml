@@ -26,5 +26,5 @@ jobs:
           language: 'en'
           timezone: 'Australia/Adelaide'
           llm-provider: 'groq'
-          llm-model: 'llama-3.3-70b-versatile'
+          llm-model: 'openai/gpt-oss-120b'
           groq-api-key: ${{ secrets.GDW_LLM_KEY }}
