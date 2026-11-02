@@ -165,6 +165,10 @@
     "reviewGenerosity": 0
   },
   "delta": null,
-  "llm": null,
+  "llm": {
+    "archetype": "A lone night‑owl chipping away at small tasks, focusing on personal repos with TypeScript, Swift, and Python, but hardly collaborating.",
+    "evolution": null,
+    "headline": "SOLO CODER DOMINATES PERSONAL PROJECTS"
+  },
   "generatedAt": "2026-11-02T07:33:50.361Z"
 }
