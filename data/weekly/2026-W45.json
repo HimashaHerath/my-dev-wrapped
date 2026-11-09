@@ -118,6 +118,10 @@
     "reviewGenerosity": 0
   },
   "delta": null,
-  "llm": null,
+  "llm": {
+    "archetype": "A silent architect, hovering on the brink of code, whose mind is full of ideas but whose keyboard stayed untouched this week.",
+    "evolution": null,
+    "headline": "THE INVISIBLE CODER HOVERING"
+  },
   "generatedAt": "2026-11-09T07:50:46.883Z"
 }
